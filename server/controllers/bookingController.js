@@ -1,4 +1,4 @@
-import Booking from '../models/Booking.js';
+import Booking from '../models/model.Booking.js';
 
 
 //create new booking
